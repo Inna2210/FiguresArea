@@ -1,0 +1,12 @@
+D:\Сишарп\Figures\FigureInformation\bin\Debug\net5.0\FigureInformation.deps.json
+D:\Сишарп\Figures\FigureInformation\bin\Debug\net5.0\FigureInformation.dll
+D:\Сишарп\Figures\FigureInformation\bin\Debug\net5.0\ref\FigureInformation.dll
+D:\Сишарп\Figures\FigureInformation\bin\Debug\net5.0\FigureInformation.pdb
+D:\Сишарп\Figures\FigureInformation\obj\Debug\net5.0\FigureInformation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Сишарп\Figures\FigureInformation\obj\Debug\net5.0\FigureInformation.AssemblyInfoInputs.cache
+D:\Сишарп\Figures\FigureInformation\obj\Debug\net5.0\FigureInformation.AssemblyInfo.cs
+D:\Сишарп\Figures\FigureInformation\obj\Debug\net5.0\FigureInformation.csproj.CoreCompileInputs.cache
+D:\Сишарп\Figures\FigureInformation\obj\Debug\net5.0\FigureInformation.dll
+D:\Сишарп\Figures\FigureInformation\obj\Debug\net5.0\ref\FigureInformation.dll
+D:\Сишарп\Figures\FigureInformation\obj\Debug\net5.0\FigureInformation.pdb
+D:\Сишарп\Figures\FigureInformation\obj\Debug\net5.0\FigureInformation.csproj.AssemblyReference.cache

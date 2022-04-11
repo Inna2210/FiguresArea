@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Figures/1.0.0": {
+        "dependencies": {
+          "FigureInformation": "1.0.0"
+        },
+        "runtime": {
+          "Figures.dll": {}
+        }
+      },
+      "FigureInformation/1.0.0": {
+        "runtime": {
+          "FigureInformation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Figures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FigureInformation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
